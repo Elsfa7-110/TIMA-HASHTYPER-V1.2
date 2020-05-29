@@ -62,6 +62,9 @@ while True:
     elif int(len(the_hash))== 321:
         print ('[*] hash >>  Windows Phone 8+ PIN/password')
 
+    elif int(len(the_hash))== 7:
+        print ('[*] created by >>  Elsfa7-110')
+
     else:
         print ('[#]error >> 404 not found ')
         
